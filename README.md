@@ -1,2 +1,0 @@
-# preloader
-Animated preloader
